@@ -1,2 +1,3 @@
 # gitdemo
-This is my first goi repo.
+This is my first git repo.
+author - Neel
